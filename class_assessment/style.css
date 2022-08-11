@@ -1,0 +1,46 @@
+.body{
+    height:90vh;
+    background-image: url(images/mbr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.navbar-brand img{
+    width:60px;
+}
+ a{
+    color:black;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+h1{
+    font-weight: bold;
+    font-size:3.5rem;
+}
+p{
+    font-size:1.4rem;
+    font-weight: 400;
+}
+h4{
+    padding-top: 150px;
+    color:black;
+}
+h1, p{
+    margin-top: 30px;
+    color:black;
+}
+
+a img{
+    width:30px;
+}
+
+
+button{
+    padding:16px 35px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border:none;
+    border-radius: 10px;
+    background-color: #f6e4d1;
+}
