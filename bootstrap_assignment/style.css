@@ -19,7 +19,7 @@ nav{
     margin-left: 5%;
 }
 
-.heropage h1, .features h1, .design h1{
+.heropage h1, .features h1, .design h1, .manager h1{
     margin-top: 7% ;
     color:#352315;
     font-weight: 700;
@@ -38,16 +38,24 @@ nav{
     font-size: 1.3rem;
     text-decoration: underline;
 }
-.features p, .design p{
+.features p, .design, .manager p{
     color:#352315;
     font-size: 1.2rem;
     font-weight: 500;
 }
+
+
 h4, h3, h5{
     color: #352315
 }
 .center{
     margin-left:40%;
+}
+
+.list p{
+    color:#352315;
+    font-size: 1.2rem;
+    font-weight: 200;
 }
 
 
