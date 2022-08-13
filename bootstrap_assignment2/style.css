@@ -16,13 +16,43 @@
     background-image: linear-gradient(to bottom right, #17a2b8, #20c997);
 }
 
+.text, .screen{
+    margin-top:7%;
+}
 
 .home_banner{
     padding:10% 7%;
 }
+.description a:hover{
+    color: #17a2b8;
+    text-decoration: none;
+}
 
 h1{
-    font-size: 3.5rem;
+    font-size: 3.3rem;
+}
+h2{
+    font-size: 2.4rem;
+}
+.chart{
+    background-color: rgba(9.02%, 63.53%, 72.16%, 0.1);
+    margin-top: 8%;
+    padding: 4%;
+}
+.chart button{
+    font-size: 15px;
+    padding:12px 30px;
+}
+.chart .row button{
+    background-image:  linear-gradient(to bottom right, #17a2b8, #20c997);
+    font-size: 1.1rem;
+     padding:15px 35px;
+}
+.chart img{
+    width:600px;
+}
+.screen img{
+    width:800px;
 }
 @media screen and (max-width:992px){
     .navbar{
