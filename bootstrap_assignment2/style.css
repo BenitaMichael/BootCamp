@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #17a2b8;
+    opacity: 0.9;
+}
+.navbar-nav{
+    margin:0 20% 0 25%;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.nav-item{
+    font-size: 13px;
+}
+.home_banner{
+    background-image: linear-gradient(to bottom right, #17a2b8, #20c997);
+}
+
+
+.home_banner{
+    padding:10% 7%;
+}
+
+h1{
+    font-size: 3.5rem;
+}
+@media screen and (max-width:992px){
+    .navbar{
+        background-color: #111;
+    }
+}
