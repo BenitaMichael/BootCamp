@@ -28,4 +28,7 @@ h1{
     .navbar{
         background-color: #111;
     }
+    .home_banner{
+        height:90vh;
+    }
 }
