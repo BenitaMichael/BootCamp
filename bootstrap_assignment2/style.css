@@ -54,6 +54,24 @@ h2{
 .screen img{
     width:800px;
 }
+ul{
+    list-style-type: none;
+}
+.price_footer h1{
+    font-weight: bolder;
+    color: black;
+}
+.price_footer button{
+    padding:10px 25px;
+    background-image:linear-gradient(to bottom right, #17a2b8, #20c997);
+    margin: auto;
+}
+.price_head, .price_footer{
+    background-color: rgba(9.02%, 63.53%, 72.16%, 0.1);
+    padding:30px 0;
+}
+
+
 @media screen and (max-width:992px){
     .navbar{
         background-color: #111;
